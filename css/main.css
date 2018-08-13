@@ -1,0 +1,33 @@
+img {
+  height: 200px;
+}
+div.container {
+  text-align: center;
+}
+div.watch {
+  border: 5px solid #336699;
+  padding: 10px;
+  margin: 5px 20px;
+  text-align: center;
+  height: 470px;
+}
+body {
+  background-image: url("../img/black.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0px 120px;
+  padding-top: 20px;
+}
+h1 strong {
+  font-family: 'Tenor Sans', sans-serif;
+
+}
+h4, h1 {
+  color: white;
+  text-shadow: 4px 5px 9px #336699;
+}
+.end {
+  width: 95%;
+  margin-top: 10px;
+  margin-left: 27px;
+}
